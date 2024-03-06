@@ -5,17 +5,15 @@ The *Quanser SDK* provides device drivers together with hardware interfacing, co
 
 The *Quanser SDK* is available for the following platforms and operating systems:
 
-- *Quanser SDK for Windows* : https://github.com/quanser/quanser_sdk_win64
+- *[Quanser SDK for Windows](https://github.com/quanser/quanser_sdk_win64)* : https://github.com/quanser/quanser_sdk_win64
 
-  <!-- - *Quanser SDK for Linux* : https://github.com/quanser/quanser_sdk_linux-->
+  <!-- - *[Quanser SDK for Linux](https://github.com/quanser/quanser_sdk_linux)* : https://github.com/quanser/quanser_sdk_linux-->
 
-  <!-- - *Quanser SDK for macOS* : https://github.com/quanser/quanser_sdk_macos-->
+  <!-- - *[Quanser SDK for macOS](https://github.com/quanser/quanser_sdk_macos)* : https://github.com/quanser/quanser_sdk_macos-->
 
 
 
-Once the *Quanser SDK* is installed, cross-platform source code examples utilizing the provided Quanser C and Python API's are available online from the following *Quanser SDK Examples* repository:
-
-https://github.com/quanser/quanser_sdk_examples
+Once the *Quanser SDK* is installed, cross-platform source code examples utilizing the provided Quanser C and Python API's are available online from the *[Quanser SDK Examples](https://github.com/quanser/quanser_sdk_examples)* repository (https://github.com/quanser/quanser_sdk_examples).
 
 
 
