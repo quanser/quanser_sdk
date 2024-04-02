@@ -1,5 +1,5 @@
 # Quanser SDK
-The *Quanser SDK* facilitates application software development using Quanser hardware and virtual experiments. It provides device drivers and various Application Programming Interfaces (API's) in C and Python together with hardware interfacing, communication and vision libraries.
+The *Quanser SDK* facilitates application software development using Quanser hardware and virtual experiments. It provides device drivers and various Application Programming Interfaces (API's) in C and Python together with hardware interfacing and communication libraries.
 
 
 
@@ -21,9 +21,7 @@ The *Quanser SDK* contains the following set of C and Python Application Program
 
 - *Quanser Hardware API* 
 - *Quanser Communications API*
-- *Quanser Devices API*
-- *Quanser Image Processing API*
-- *Quanser Multimedia API*
+- and other API's
 
 
 
