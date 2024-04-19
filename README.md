@@ -7,7 +7,7 @@ The *Quanser SDK* is available for the following platforms and operating systems
 
 - *[Quanser SDK for Windows](https://github.com/quanser/quanser_sdk_win64)*, at https://github.com/quanser/quanser_sdk_win64
 
-  <!-- - *[Quanser SDK for Linux](https://github.com/quanser/quanser_sdk_linux)*, at https://github.com/quanser/quanser_sdk_linux-->
+- *[Quanser SDK for Linux](https://github.com/quanser/quanser_sdk_linux)*, at https://github.com/quanser/quanser_sdk_linux
 
   <!-- - *[Quanser SDK for macOS](https://github.com/quanser/quanser_sdk_macos)*, at https://github.com/quanser/quanser_sdk_macos-->
 
