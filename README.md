@@ -30,7 +30,7 @@ The *Quanser SDK* contains the following set of C and Python Application Program
 The documentation for these Quanser API's is available online at the following URL's. 
 
 | Quanser API                   |                      API Documentation                       |
-| ----------------------------- | :----------------------------------------------------------: |
+| ----------------------------- | ----------------------------------------------------------   |
 | Hardware C API                | https://docs.quanser.com/quarc/documentation/quarc_c_hardware_c.html |
 | Communications C API          | https://docs.quanser.com/quarc/documentation/quarc_c_comm_c.html |
 | Devices C API                 | https://docs.quanser.com/quarc/documentation/quarc_c_devices_c.html |
